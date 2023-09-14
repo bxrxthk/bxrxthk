@@ -68,3 +68,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/bxrxthk/bxrxthk/output/snake.svg" alt="Snake animation" />
+
+###
