@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Bharathkumar from Chennai.<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning SpringBoot<br>- ⚡ In my free time I watch Anime</p>
+<p align="left">I'm Bharathkumar from Chennai.<br><br>- 🔭 I’m a Software Engineer<br>- 📚 I'm currently learning SpringBoot<br>- ⚡ In my free time I watch Anime</p>
 
 ###
 
